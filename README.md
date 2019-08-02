@@ -1,3 +1,12 @@
+Changes applied from commit [496bfaf](https://github.com/czeni/opencv-video-minimal/commit/496bfaff0a6523a58cd10cc2f3f1a99a74bac224):
+
+- Separate intermediate steps in layers for build cache
+- Remove python support: not needed at the moment of writing
+- Remove intel tbb support: pkg not available in aarch64 architecture
+
+---
+Original Content:
+
 # OpenCV 4.1.0 with Python3.7.3 and video support
 
 [![](https://img.shields.io/docker/build/czentye/opencv-video-minimal.svg?style=popout)](https://hub.docker.com/r/czentye/opencv-video-minimal)
