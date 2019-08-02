@@ -1,4 +1,4 @@
-Changes applied from commit [496bfaf](https://github.com/czeni/opencv-video-minimal/commit/496bfaff0a6523a58cd10cc2f3f1a99a74bac224):
+Changes applied from commit [496bfaf](https://github.com/czeni/opencv-video-minimal/tree/496bfaff0a6523a58cd10cc2f3f1a99a74bac224):
 
 - Separate intermediate steps in layers for build cache
 - Remove python support: not needed at the moment of writing
